@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "6. Calculate Rectangle Area": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
